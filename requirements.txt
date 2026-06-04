@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+langgraph
+langchain-core
+slither-analyzer
+streamlit
+requests
